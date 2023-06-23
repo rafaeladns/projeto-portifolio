@@ -24,7 +24,7 @@
 }
 
 .a-menu:hover {
-    border-bottom: 3px solid #70DA1C;
+    border-bottom: 3px solid #D91D4A;
     transition: .2s;
 }
 
@@ -42,7 +42,7 @@
     }
 
     .a-menu:hover {
-        background-color: #70DA1C;
+        background-color: #D91D4A;
         border: none;
         transition: .4s;
     }
@@ -50,7 +50,7 @@
 
 @media (max-width: 400px ) {
     .a-menu:hover {
-        background-color: #70DA1C;
+        background-color: #D91D4A;
         border: none;
         transition: .4s;
     }
